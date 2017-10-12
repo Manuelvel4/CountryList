@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CountryListActivity</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="Confim_sms">SMSConfirmation</string>
+    <string name="Erase">Erase</string>
+</resources>
